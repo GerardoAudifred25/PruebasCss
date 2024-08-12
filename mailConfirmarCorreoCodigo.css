@@ -1,0 +1,6149 @@
+
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+
+      
+        @font-face {
+          font-family: poppins_semibold;
+          src: url(assets/Poppins-SemiBold.ttf);
+        }
+        
+        @font-face {
+          font-family: poppins_bold;
+          src: url(assets/Poppins-Bold.ttf);
+        }
+        
+        @font-face {
+          font-family: poppins_regular;
+          src: url(assets/Poppins-Regular.ttf);
+        }
+        
+
+      .mailConfirmarCorreoCodigo {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(255, 255, 255, 1);
+      width: 769.00px;
+    height: 949.00px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 769.00px;
+    height: 949.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/frame30ClipContent.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 769.00px;
+    height: 280.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30FrameBackground {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(108, 112, 245, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 769.00px;
+    height: 280.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 148.00px;
+    height: 50.00px;
+    left: 577.00px;
+    top: 24.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 148.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .logosCdcFrameBackground {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 148.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 148.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 148.00px;
+    height: 50.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 83.03px;
+    height: 19.25px;
+    left: 63.81px;
+    top: 10.67px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vector07ac278b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 12.33px;
+    height: 13.75px;
+    left: 0.00px;
+    top: 5.49px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vectorea843d1a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 5.70px;
+    height: 18.95px;
+    left: 15.31px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vectorf300c627 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 7.77px;
+    height: 13.43px;
+    left: 22.35px;
+    top: 5.51px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vector2aa78e40 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 12.33px;
+    height: 13.75px;
+    left: 31.58px;
+    top: 5.49px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vectordb45ed1f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 11.98px;
+    height: 13.46px;
+    left: 46.56px;
+    top: 5.77px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vector5167612a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 3.05px;
+    height: 18.22px;
+    left: 62.53px;
+    top: 0.72px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupb6a455d0 .vector004d7994 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 14.20px;
+    height: 13.75px;
+    left: 68.83px;
+    top: 5.49px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .vectorc61270b9 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 2.19px;
+    height: 2.21px;
+    left: 145.81px;
+    top: 14.94px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .vector88301a3d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 41.63px;
+    height: 41.20px;
+    left: 6.12px;
+    top: 4.40px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .vector91f5ad31 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: 35.66px;
+    height: 25.06px;
+    left: 18.21px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .vector64157ad5 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      box-shadow: none;
+      width: 35.71px;
+    height: 25.00px;
+    left: 0.00px;
+    top: 25.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 44.79px;
+    height: 6.73px;
+    left: 63.76px;
+    top: 32.77px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vectore1dd6530 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.72px;
+    height: 6.63px;
+    left: 0.00px;
+    top: 0.09px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vectoreb2c1684 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.42px;
+    height: 4.83px;
+    left: 5.98px;
+    top: 1.90px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vectorb16976f8 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.30px;
+    height: 4.83px;
+    left: 14.05px;
+    top: 1.90px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vector14a9acb5 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 2.60px;
+    height: 4.71px;
+    left: 19.50px;
+    top: 1.91px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vector1646d2f8 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.42px;
+    height: 6.73px;
+    left: 22.67px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vector5ff48c46 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.72px;
+    height: 6.63px;
+    left: 28.04px;
+    top: 0.09px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vector80ed7fe2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 0.80px;
+    height: 6.40px;
+    left: 34.33px;
+    top: 0.22px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vectorcb3ee1b2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 2.83px;
+    height: 6.10px;
+    left: 36.29px;
+    top: 0.60px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30 .logosCdc .capa1 .groupe4a41eb3 .groupd151cffd .vectorc00270f1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.87px;
+    height: 4.83px;
+    left: 39.92px;
+    top: 1.90px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/frame32ClipContent.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 190.00px;
+    left: 44.00px;
+    top: 90.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/frame34ClipContent.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 246.00px;
+    height: 190.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 217.00px;
+    height: 207.56px;
+    left: 15.00px;
+    top: 15.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 217.00px;
+    height: 207.56px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group721356a3 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 22.88px;
+    height: 32.51px;
+    left: 164.13px;
+    top: 161.59px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group721356a3 .vector2accb520 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 21.81px;
+    height: 31.43px;
+    left: 0.54px;
+    top: 0.53px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group721356a3 .vector078377b5 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 22.88px;
+    height: 32.51px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 52.52px;
+    height: 27.94px;
+    left: 164.48px;
+    top: 175.19px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .group2040ca28 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 52.52px;
+    height: 27.94px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .group2040ca28 .vectore70054c0 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 0.05px;
+    height: 0.10px;
+    left: 25.65px;
+    top: 14.21px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .group2040ca28 .vector20214702 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 51.46px;
+    height: 26.88px;
+    left: 0.54px;
+    top: 0.53px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .group2040ca28 .vectorff59a6ec {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 52.52px;
+    height: 27.94px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupb573ab9e {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 52.52px;
+    height: 4.58px;
+    left: 0.00px;
+    top: 23.36px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupb573ab9e .vector8fdedbdd {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 51.46px;
+    height: 3.51px;
+    left: 0.53px;
+    top: 0.53px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupb573ab9e .vector3c2ae561 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 52.52px;
+    height: 4.58px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupfe86ed98 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 9.35px;
+    height: 7.67px;
+    left: 24.08px;
+    top: 14.31px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupfe86ed98 .vector88c74422 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 3.86px;
+    height: 6.17px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupfe86ed98 .vectorf12bc3c6 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 3.78px;
+    height: 6.69px;
+    left: 2.85px;
+    top: 0.98px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupac0f0dfd .groupfe86ed98 .vector184a62b0 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 2.68px;
+    height: 5.11px;
+    left: 6.67px;
+    top: 2.55px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group5cfea32c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 22.88px;
+    height: 32.51px;
+    left: 138.15px;
+    top: 164.48px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group5cfea32c .vector3a16b804 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 21.81px;
+    height: 31.43px;
+    left: 0.53px;
+    top: 0.54px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group5cfea32c .vectoracaae386 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 22.88px;
+    height: 32.51px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group0ed1121c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 117.61px;
+    height: 138.15px;
+    left: 0.00px;
+    top: 49.42px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group0ed1121c .vectorfea8b7d0 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 117.04px;
+    height: 137.63px;
+    left: 0.29px;
+    top: 0.26px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group0ed1121c .vector76d5f53b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 117.61px;
+    height: 138.15px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group67c0682e {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 92.89px;
+    height: 50.82px;
+    left: 94.50px;
+    top: 122.95px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group67c0682e .vector28295613 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 92.32px;
+    height: 50.17px;
+    left: 0.29px;
+    top: 0.33px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group67c0682e .vector6f12f299 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 92.89px;
+    height: 50.82px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupe34f0906 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 31.00px;
+    height: 93.99px;
+    left: 165.92px;
+    top: 76.65px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupe34f0906 .vector6d2db1ab {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 30.39px;
+    height: 93.45px;
+    left: 0.31px;
+    top: 0.27px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupe34f0906 .vectora4e25df4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 31.00px;
+    height: 93.99px;
+    left: -0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group46e34b5f {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 89.98px;
+    height: 17.92px;
+    left: 108.33px;
+    top: 69.42px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group46e34b5f .vectord722706b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(261.91deg);
+    -webkit-transform: rotate(261.91deg);
+    transform: rotate(261.91deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 4.80px;
+    height: 89.64px;
+    left: 42.59px;
+    top: -35.87px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group46e34b5f .vector5a8de252 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 89.98px;
+    height: 17.92px;
+    left: -0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupe2b90471 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 118.67px;
+    height: 105.04px;
+    left: 7.84px;
+    top: 34.67px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupe2b90471 .vector89ead76f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 117.68px;
+    height: 104.04px;
+    left: 0.50px;
+    top: 0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupe2b90471 .vector636b23a4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 118.67px;
+    height: 105.04px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group1183315e {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 49.04px;
+    height: 89.33px;
+    left: 7.84px;
+    top: 50.38px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group1183315e .vectord35ad82d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 48.06px;
+    height: 88.33px;
+    left: 0.49px;
+    top: 0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group1183315e .vector9eccb98b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 49.04px;
+    height: 89.33px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8c1c96f8 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 148.07px;
+    height: 51.70px;
+    left: 42.57px;
+    top: 103.25px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8c1c96f8 .vector08953ac2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 147.05px;
+    height: 50.68px;
+    left: 0.52px;
+    top: 0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8c1c96f8 .vector9f4b36a1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 148.07px;
+    height: 51.70px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group9c97e08c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 148.07px;
+    height: 50.59px;
+    left: 42.56px;
+    top: 104.36px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group9c97e08c .vector8719619b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 147.05px;
+    height: 49.57px;
+    left: 0.53px;
+    top: 0.49px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group9c97e08c .vectorab1fe484 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 148.07px;
+    height: 50.59px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group42995f58 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 75.62px;
+    height: 46.79px;
+    left: 115.02px;
+    top: 104.36px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group42995f58 .vector58fe9e65 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 74.63px;
+    height: 45.80px;
+    left: 0.50px;
+    top: 0.49px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group42995f58 .vector817d833c {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 75.62px;
+    height: 46.79px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group7479cfdd {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 94.89px;
+    height: 32.37px;
+    left: 92.92px;
+    top: 47.12px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group7479cfdd .group259c6df3 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 94.89px;
+    height: 32.37px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group7479cfdd .group259c6df3 .vectordf30aed8 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 93.85px;
+    height: 31.36px;
+    left: 0.54px;
+    top: 0.51px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group7479cfdd .group259c6df3 .vector3581c99a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 94.89px;
+    height: 32.37px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group7479cfdd .vector393e5d3f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(188.72deg);
+    -webkit-transform: rotate(188.72deg);
+    transform: rotate(188.72deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 13.34px;
+    height: 0.91px;
+    left: 78.44px;
+    top: 23.64px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group7479cfdd .vector077ecc80 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 11.80px;
+    height: 2.98px;
+    left: 79.97px;
+    top: 18.92px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8fdb8745 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 34.05px;
+    height: 33.91px;
+    left: 79.83px;
+    top: 40.56px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8fdb8745 .vector55a4769f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(119, 135, 216, 1);
+      box-shadow: none;
+      width: 33.08px;
+    height: 32.92px;
+    left: 0.44px;
+    top: 0.45px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8fdb8745 .vector896bb182 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 34.05px;
+    height: 33.91px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group967f0b69 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 104.46px;
+    height: 90.32px;
+    left: 83.80px;
+    top: 92.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group967f0b69 .vector6cc1e50a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 103.47px;
+    height: 89.34px;
+    left: 0.50px;
+    top: 0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group967f0b69 .vector48e092ff {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 104.46px;
+    height: 90.32px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group074b8c39 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 35.76px;
+    height: 72.11px;
+    left: 140.26px;
+    top: 110.46px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group074b8c39 .vector5686404c {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 35.01px;
+    height: 71.36px;
+    left: 0.47px;
+    top: 0.51px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group074b8c39 .vector961d1eec {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 35.76px;
+    height: 72.11px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group1f5023a6 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 106.88px;
+    height: 93.58px;
+    left: 59.08px;
+    top: 98.85px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group1f5023a6 .vectorbc1ff8db {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 105.89px;
+    height: 92.60px;
+    left: 0.49px;
+    top: 0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group1f5023a6 .vectorc98b4905 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 106.88px;
+    height: 93.58px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group37f823c8 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 68.39px;
+    height: 72.10px;
+    left: 42.28px;
+    top: 38.06px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group37f823c8 .vectord4f0b1c1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(119, 135, 216, 1);
+      box-shadow: none;
+      width: 67.35px;
+    height: 71.22px;
+    left: 0.52px;
+    top: 0.44px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group37f823c8 .vector5af7be4c {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 68.39px;
+    height: 72.10px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8dc60618 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 17.12px;
+    height: 29.52px;
+    left: 58.43px;
+    top: 19.03px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8dc60618 .vector73b02440 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 16.21px;
+    height: 28.62px;
+    left: 0.46px;
+    top: 0.45px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group8dc60618 .vector9d7fc2f5 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 17.12px;
+    height: 29.52px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group686eca9d {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 19.12px;
+    height: 29.53px;
+    left: 64.77px;
+    top: 6.55px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group686eca9d .vector661936dd {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 18.21px;
+    height: 28.62px;
+    left: 0.46px;
+    top: 0.46px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group686eca9d .vector4b90cfe6 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 19.12px;
+    height: 29.53px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector8662baf3 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 33.68px;
+    height: 30.28px;
+    left: 58.28px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vectorc4c57531 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 4.26px;
+    height: 8.32px;
+    left: 61.74px;
+    top: 13.82px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vectorba646d01 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 18.77px;
+    height: 28.06px;
+    left: 62.71px;
+    top: 10.85px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 60.93px;
+    height: 46.29px;
+    left: 80.88px;
+    top: 55.83px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .group3c8a9f70 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 25.49px;
+    height: 45.17px;
+    left: 28.60px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .group3c8a9f70 .vector34fa6dff {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 24.60px;
+    height: 44.26px;
+    left: 0.44px;
+    top: 0.45px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .group3c8a9f70 .vectorb6c4dffc {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 25.49px;
+    height: 45.17px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupeebaf8c1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 33.83px;
+    height: 44.43px;
+    left: 27.10px;
+    top: 0.21px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupeebaf8c1 .vectord8dce193 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 33.36px;
+    height: 43.94px;
+    left: 0.24px;
+    top: 0.25px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupeebaf8c1 .vector5431a915 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 33.83px;
+    height: 44.43px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupdc7594cc {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 35.55px;
+    height: 41.48px;
+    left: 16.29px;
+    top: 2.25px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupdc7594cc .vectorddea9b2e {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 34.64px;
+    height: 40.57px;
+    left: 0.46px;
+    top: 0.46px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupdc7594cc .vector67495e2d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 35.55px;
+    height: 41.49px;
+    left: 0.00px;
+    top: -0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupe9e4ec1c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 24.44px;
+    height: 31.10px;
+    left: 31.13px;
+    top: 15.18px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupe9e4ec1c .vector98dae8b9 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 23.73px;
+    height: 30.47px;
+    left: 0.38px;
+    top: 0.35px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .groupe9e4ec1c .vector67e2ce3e {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 24.44px;
+    height: 31.10px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .group448a0cd7 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 51.81px;
+    height: 33.54px;
+    left: 0.00px;
+    top: 11.10px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .group448a0cd7 .vectorad6f1412 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 51.00px;
+    height: 33.04px;
+    left: 0.40px;
+    top: 0.26px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group2e564ebb .group448a0cd7 .vectorda3b9985 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 51.81px;
+    height: 33.55px;
+    left: 0.00px;
+    top: -0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector060976be {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 17.62px;
+    height: 9.54px;
+    left: 92.18px;
+    top: 46.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector369a0524 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 9.59px;
+    height: 20.47px;
+    left: 83.08px;
+    top: 43.89px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vectord51086ed {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(251.54deg);
+    -webkit-transform: rotate(251.54deg);
+    transform: rotate(251.54deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 6.39px;
+    height: 0.98px;
+    left: 90.83px;
+    top: 69.52px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupbb2a17ed {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 40.26px;
+    height: 109.52px;
+    left: 71.61px;
+    top: 98.04px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupbb2a17ed .vector733958f2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 39.67px;
+    height: 108.90px;
+    left: 0.31px;
+    top: 0.28px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupbb2a17ed .vectoreab3ffd4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 40.26px;
+    height: 109.52px;
+    left: -0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupd2f6105a {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 74.53px;
+    height: 15.73px;
+    left: 27.95px;
+    top: 91.94px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupd2f6105a .vector390c8e02 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(261.91deg);
+    -webkit-transform: rotate(261.91deg);
+    transform: rotate(261.91deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 4.80px;
+    height: 74.04px;
+    left: 34.86px;
+    top: -29.16px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupd2f6105a .vector05e25115 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 74.53px;
+    height: 15.73px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupcf515efd {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 87.81px;
+    height: 50.05px;
+    left: 42.50px;
+    top: 54.97px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupcf515efd .vector69b0da46 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 86.80px;
+    height: 49.06px;
+    left: 0.50px;
+    top: 0.49px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupcf515efd .vector {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 87.81px;
+    height: 50.05px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .groupcf515efd .vector32132203 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 0.49px;
+    height: 0.11px;
+    left: 17.13px;
+    top: 7.15px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group5e2c4808 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 29.13px;
+    height: 40.35px;
+    left: 38.70px;
+    top: 47.65px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group5e2c4808 .vector59fe145d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(119, 135, 216, 1);
+      box-shadow: none;
+      width: 28.16px;
+    height: 39.41px;
+    left: 0.46px;
+    top: 0.47px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group5e2c4808 .vectorbe95a952 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 29.13px;
+    height: 40.35px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector52149451 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 5.16px;
+    height: 15.44px;
+    left: 42.43px;
+    top: 52.70px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vectord873e426 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(264.70deg);
+    -webkit-transform: rotate(264.70deg);
+    transform: rotate(264.70deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 2.89px;
+    height: 0.98px;
+    left: 42.08px;
+    top: 71.91px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 52.52px;
+    height: 27.94px;
+    left: 138.50px;
+    top: 178.08px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf08da94d {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 52.52px;
+    height: 27.94px;
+    left: 0.01px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf08da94d .vectorb5d36cb8 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 0.05px;
+    height: 0.10px;
+    left: 25.65px;
+    top: 14.21px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf08da94d .vector0a1639b4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 51.46px;
+    height: 26.88px;
+    left: 0.53px;
+    top: 0.53px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf08da94d .vectorc04b8c3f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 52.52px;
+    height: 27.94px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf5362921 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 52.52px;
+    height: 4.58px;
+    left: 0.00px;
+    top: 23.36px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf5362921 .vector3ef43bff {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 51.46px;
+    height: 3.51px;
+    left: 0.53px;
+    top: 0.53px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .groupf5362921 .vectorad1f2e2a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 52.52px;
+    height: 4.58px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .group {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 9.51px;
+    height: 7.67px;
+    left: 23.92px;
+    top: 14.32px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .group .vectorad90ca33 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 4.02px;
+    height: 6.17px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .group .vector2ebb1d64 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 3.78px;
+    height: 6.69px;
+    left: 3.01px;
+    top: 0.98px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .group61e880e6 .group .vectore37729ed {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 2.68px;
+    height: 5.11px;
+    left: 6.83px;
+    top: 2.55px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector35ae2e82 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 84.39px;
+    height: 78.38px;
+    left: 66.32px;
+    top: 109.83px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector8ed264a0 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(257.47deg);
+    -webkit-transform: rotate(257.47deg);
+    transform: rotate(257.47deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 26.61px;
+    height: 0.98px;
+    left: 157.13px;
+    top: 122.67px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector1ef37513 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 31.90px;
+    height: 6.75px;
+    left: 106.91px;
+    top: 103.89px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vectorb3ff73b5 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(256.97deg);
+    -webkit-transform: rotate(256.97deg);
+    transform: rotate(256.97deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 6.46px;
+    height: 0.98px;
+    left: 171.22px;
+    top: 141.75px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vectora427537b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(254.75deg);
+    -webkit-transform: rotate(254.75deg);
+    transform: rotate(254.75deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 32.91px;
+    height: 0.98px;
+    left: 137.95px;
+    top: 154.57px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .capa12 .men .vector {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(180.00deg);
+    -webkit-transform: rotate(180.00deg);
+    transform: rotate(180.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(26, 24, 89, 1);
+      box-shadow: none;
+      width: 23.16px;
+    height: 3.87px;
+    left: 132.91px;
+    top: 95.25px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame34ClipContent .frame34FrameClipContentMask {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 246.00px;
+    height: 190.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame33 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 382.00px;
+    height: 88.00px;
+    left: 299.00px;
+    top: 14.48px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame33 .verificaTuCuentaDeCorreo {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 45.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: poppins_semibold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 382.00px;
+    height: 88.00px;
+    left: 0.00px;
+    top: -1.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame32ClipContent .frame32FrameClipContentMask {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 681.00px;
+    height: 190.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame30ClipContent .frame30FrameClipContentMask {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(108, 112, 245, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 769.00px;
+    height: 280.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame13 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 105.08px;
+    left: 44.00px;
+    top: 322.09px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame13 .frame9 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 33.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame13 .frame9 .name {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 36.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 36, 39, 1);
+      -webkit-text-stroke: unset;
+      font-size: 24.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: poppins_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 681.00px;
+    height: 33.00px;
+    left: 0.00px;
+    top: -1.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame13 .frame10 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 642.00px;
+    height: 44.00px;
+    left: 0.00px;
+    top: 61.08px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame13 .frame10 .bienvenidoACirculoAContinuacionTeCompartimosElCodigoDeVerificacionQueTeServiraParaConfirmarTuDireccionDeCorreoElectronico {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 23.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 36, 39, 1);
+      -webkit-text-stroke: unset;
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 642.00px;
+    height: 44.00px;
+    left: 0.00px;
+    top: -1.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 112.00px;
+    left: 44.00px;
+    top: 479.16px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 .frame11 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 21.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 .frame11 .codigoDeVerificacion {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 23.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 36, 39, 1);
+      -webkit-text-stroke: unset;
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 681.00px;
+    height: 21.00px;
+    left: 0.00px;
+    top: -1.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 .frame12 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 33.00px;
+    left: 0.00px;
+    top: 33.92px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 .frame12 .nip {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 36.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 36, 39, 1);
+      -webkit-text-stroke: unset;
+      font-size: 24.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: poppins_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 681.00px;
+    height: 33.00px;
+    left: 0.00px;
+    top: -1.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 .frame14 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 21.00px;
+    left: 0.00px;
+    top: 91.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame15 .frame14 .esteCodigoDeConfirmacionSoloSeraValidoDurante24Horas {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 23.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 36, 39, 1);
+      -webkit-text-stroke: unset;
+      font-size: 15.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 681.00px;
+    height: 21.00px;
+    left: 0.00px;
+    top: -1.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame16 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 681.00px;
+    height: 33.00px;
+    left: 44.00px;
+    top: 660.51px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame16 .transformaTuSaludFinancieraConCirculo {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 36.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 36, 39, 1);
+      -webkit-text-stroke: unset;
+      font-size: 24.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: poppins_semibold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 681.00px;
+    height: 33.00px;
+    left: 0.00px;
+    top: -1.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame25 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 769.00px;
+    height: 58.00px;
+    left: 0.00px;
+    top: 772.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame25 .frame25FrameBackground {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(227, 227, 227, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 769.00px;
+    height: 58.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .frame25 .siNoTeSuscribisteNiSolicitasteLaVerificacionHazCasoOmisoDeEsteCorreoYAsegurateDeQueNadieMasTengaAccesoATuCorreoElectronico {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(86, 86, 86, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 509.00px;
+    height: 33.00px;
+    left: 130.00px;
+    top: 8.82px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 769.00px;
+    height: 119.00px;
+    left: 0.00px;
+    top: 830.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 769.00px;
+    height: 119.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame31FrameBackground {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(86, 86, 86, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 769.00px;
+    height: 119.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame26 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 549.00px;
+    height: 16.00px;
+    left: 110.00px;
+    top: 9.40px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame26 .tambienPuedesPonerteEnContactoEnLosSiguientesCanales {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 549.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: -0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame24 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 262.00px;
+    height: 16.89px;
+    left: 258.00px;
+    top: 25.99px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame24 .frame22 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 170.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame24 .frame22 .centroDeAtencionAClientes {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: poppins_semibold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 170.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: -0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame24 .frame23 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 86.00px;
+    height: 16.00px;
+    left: 176.00px;
+    top: 0.89px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame31 .frame24 .frame23 .x5551662455 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 86.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: -0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame20 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 331.00px;
+    height: 16.64px;
+    left: 219.00px;
+    top: 52.99px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame20 .frame19 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 76.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: 0.64px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame20 .frame19 .visitaNuestra {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 76.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: -0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame20 .frame18 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 249.00px;
+    height: 16.00px;
+    left: 82.00px;
+    top: 0.00px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .frame20 .frame18 .unidadEspecializadaDeAtencionAClientes {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: poppins_semibold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 249.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: -0.50px;
+
+}
+
+.mailConfirmarCorreoCodigo .grupo4 .grupo1 .jaimeBalmesNo11EdifEMezanine1SeccAPlazaPolancoColLosMoralesPolancoAlcaldiaMiguelHidalgoCiudadDeMexicoCp11510 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 17.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: unset;
+      font-size: 11.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: poppins_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 469.00px;
+    height: 33.00px;
+    left: 150.00px;
+    top: 70.10px;
+
+}
+
